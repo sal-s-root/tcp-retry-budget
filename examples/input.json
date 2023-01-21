@@ -1,0 +1,5 @@
+{
+  "attempts": 3,
+  "timeout_seconds": 2,
+  "backoff_seconds": 1
+}

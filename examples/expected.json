@@ -1,0 +1,8 @@
+{
+  "attempts": 3,
+  "backoff_delays_seconds": [
+    1.0,
+    2.0
+  ],
+  "configured_budget_seconds": 9.0
+}
